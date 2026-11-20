@@ -1,0 +1,11 @@
+[
+  {
+    "clienteIdentificacao": "João Silva - (11) 99999-9999",
+    "planoNome": "Plus",
+    "nomeLogin": "loginGeradoDe20Chars",
+    "senha": "senhaGeradaDe20Chars",
+    "dataInicio": "20/11/2026",
+    "dataExpiracao": "20/12/2026",
+    "valorMensal": "R$ 9,90"
+  }
+]
