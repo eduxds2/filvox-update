@@ -20,7 +20,9 @@
       "dataExpiracao": "20\/12\/9999",
       "valorMensal": "R$ 9,90",
       "limiteTelas": 1,
-      "dispositivosAtivos": []
+      "dispositivosAtivos": [
+        "0e933338165da0d4"
+      ]
     }
   ]
 }
