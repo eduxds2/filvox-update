@@ -1,11 +1,26 @@
-[
-  {
-    "clienteIdentificacao": "Maira",
-    "planoNome": "Plus",
-    "nomeLogin": "Maiara",
-    "senha": "Mai.0112",
-    "dataInicio": "20/11/2026",
-    "dataExpiracao": "20/12/9999",
-    "valorMensal": "R$ 9,90"
-  }
-]
+{
+  "usuarios": [
+    {
+      "clienteIdentificacao": "Eduardo",
+      "planoNome": "Premium",
+      "nomeLogin": "edu",
+      "senha": "edu123",
+      "dataInicio": "20\/11\/2026",
+      "dataExpiracao": "20\/12\/7000",
+      "valorMensal": "R$ 19,90",
+      "limiteTelas": 2,
+      "dispositivosAtivos": []
+    },
+    {
+      "clienteIdentificacao": "Maira",
+      "planoNome": "Plus",
+      "nomeLogin": "Maiara",
+      "senha": "Mai.0112",
+      "dataInicio": "20\/11\/2026",
+      "dataExpiracao": "20\/12\/9999",
+      "valorMensal": "R$ 9,90",
+      "limiteTelas": 1,
+      "dispositivosAtivos": []
+    }
+  ]
+}
